@@ -5,7 +5,7 @@ tags: google javascript-runtime test
 iconSlug: protractor
 permalink: /protractor
 versionCommand: npm list protractor
-changelogTemplate: https://github.com/angular/protractor/blob/master/CHANGELOG.md
+changelogTemplate: https://github.com/angular/protractor/blob/v__LATEST__/CHANGELOG.md
 releaseDateColumn: true
 activeSupportColumn: Community Support
 extendedSupportColumn: Commercial Support
@@ -25,7 +25,7 @@ releases:
     latest: "7.0.0"
     latestReleaseDate: 2020-05-13
     releaseDate: 2020-05-13
-    link: https://github.com/angular/protractor/commit/71771dee4e87526dffb725cacac3f9f9e1efc287?short_path=06572a9#diff-06572a96a58dc510037d5efa622f9bec8519bc1beab13c9f251e97e657a9d4ed
+    link: https://github.com/angular/protractor/blob/release-7.0/CHANGELOG.md#700
 
 -   releaseCycle: "6.0"
     support: 2023-08-31
@@ -34,7 +34,7 @@ releases:
     latest: "6.0.0"
     latestReleaseDate: 2190-03-23
     releaseDate: 2019-03-23
-    link: https://github.com/angular/protractor/commit/5d8da049815ffc104e6eca71d2ecaec51b00f520?short_path=06572a9#diff-06572a96a58dc510037d5efa622f9bec8519bc1beab13c9f251e97e657a9d4ed
+    link: https://github.com/angular/protractor/blob/master/CHANGELOG.md#600
 
 -   releaseCycle: "5.0"
     support: 2023-08-31
@@ -43,16 +43,16 @@ releases:
     latest: "5.4.4"
     latestReleaseDate: 2020-04-16
     releaseDate: 2017-01-09
-    link: https://github.com/angular/protractor/commit/a0ffa9b900cf8aa7123c634341e2d9fa9c498db1?short_path=06572a9#diff-06572a96a58dc510037d5efa622f9bec8519bc1beab13c9f251e97e657a9d4ed
+    link: https://github.com/angular/protractor/blob/release-5.4/CHANGELOG.md#544
 
 -   releaseCycle: "4.0"
     support: 2023-08-31
     eol: true
     extendedSupport: false
-    latest: "4.0.13"
+    latest: "4.0.14"
     latestReleaseDate: 2016-12-20
     releaseDate: 2016-06-12
-    link: https://github.com/angular/protractor/commit/8952eabab6cfd31702cdcdc1af8c875189f7997f?short_path=06572a9#diff-06572a96a58dc510037d5efa622f9bec8519bc1beab13c9f251e97e657a9d4ed
+    link: https://github.com/angular/protractor/blob/master/CHANGELOG.md#4014
 
 -   releaseCycle: "3.0"
     support: 2023-08-31
@@ -61,7 +61,7 @@ releases:
     latest: "3.3.0"
     latestReleaseDate: 2016-04-25
     releaseDate: 2015-11-17
-    link: https://github.com/angular/protractor/commit/2800215576e0b9c97f20253f034dd0e0139dd5ee?short_path=06572a9#diff-06572a96a58dc510037d5efa622f9bec8519bc1beab13c9f251e97e657a9d4ed
+    link: https://github.com/angular/protractor/blob/master/CHANGELOG.md#330
 
 -   releaseCycle: "2.0"
     support: 2023-08-31
@@ -70,7 +70,7 @@ releases:
     latest: "2.5.1"
     latestReleaseDate: 2015-10-08
     releaseDate: 2015-03-18
-    link: https://github.com/angular/protractor/commit/645133d557f1059d9e885f2566fc4c29ce7c19cc?short_path=06572a9#diff-06572a96a58dc510037d5efa622f9bec8519bc1beab13c9f251e97e657a9d4ed
+    link: https://github.com/angular/protractor/blob/master/CHANGELOG.md#251
 
 -   releaseCycle: "1.0"
     support: 2023-08-31
@@ -79,7 +79,7 @@ releases:
     latest: "1.8.0"
     latestReleaseDate: 2015-03-02
     releaseDate: 2014-07-21
-    link: https://github.com/angular/protractor/commit/29ce5c6ad0d24d06f03f0a7736af4f6a91d4bf3f?short_path=06572a9#diff-06572a96a58dc510037d5efa622f9bec8519bc1beab13c9f251e97e657a9d4ed
+    link: https://github.com/angular/protractor/blob/master/CHANGELOG.md#180
 
 -   releaseCycle: "0.1.0"
     support: 2023-08-31
@@ -88,8 +88,7 @@ releases:
     latest: "0.24.2"
     latestReleaseDate: 2014-06-17
     releaseDate: 2013-02-23
-    link: https://github.com/angular/protractor/commit/8582b195ed0f4d48a0d9513017b21e99f8feb2fe?short_path=06572a9#diff-06572a96a58dc510037d5efa622f9bec8519bc1beab13c9f251e97e657a9d4ed
-
+    link: https://github.com/angular/protractor/blob/master/CHANGELOG.md#0242
 ---
 
 > [Protractor](https://www.protractortest.org/#/) is an end-to-end test framework for Angular and AngularJS
