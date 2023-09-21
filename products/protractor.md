@@ -5,7 +5,7 @@ tags: google javascript-runtime test
 iconSlug: protractor
 permalink: /protractor
 versionCommand: npm list protractor
-changelogTemplate: https://github.com/angular/protractor/blob/v__LATEST__/CHANGELOG.md
+
 releaseDateColumn: true
 activeSupportColumn: Community Support
 extendedSupportColumn: Commercial Support
