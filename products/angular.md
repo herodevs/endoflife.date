@@ -27,7 +27,7 @@ releases:
     eol: 2024-11-08
     latest: "16.2.5"
     latestReleaseDate: 2023-09-13
-    extendedSupport: No
+    extendedSupport: false
 
 -   releaseCycle: "15"
     support: 2023-05-03
@@ -36,7 +36,7 @@ releases:
     releaseDate: 2022-11-16
     lts: 2023-05-03
     latestReleaseDate: 2023-05-03
-    extendedSupport: No
+    extendedSupport: false
 
 -   releaseCycle: "14"
     support: 2022-11-18
@@ -45,7 +45,7 @@ releases:
     releaseDate: 2022-06-02
     lts: 2022-12-02
     latestReleaseDate: 2023-03-13
-    extendedSupport: No
+    extendedSupport: false
 
 -   releaseCycle: "13"
     support: 2022-06-02
@@ -54,7 +54,7 @@ releases:
     latestReleaseDate: 2023-04-06
     releaseDate: 2021-11-03
     lts: 2022-05-04
-    extendedSupport: Yes
+    extendedSupport: true
 
 -   releaseCycle: "12"
     lts: 2021-11-12
@@ -63,7 +63,7 @@ releases:
     latest: "12.2.17"
     latestReleaseDate: 2022-11-22
     releaseDate: 2021-05-13
-    extendedSupport: Yes
+    extendedSupport: true
 
 -   releaseCycle: "11"
     lts: 2021-05-11
@@ -72,7 +72,7 @@ releases:
     latest: "11.2.14"
     latestReleaseDate: 2021-05-12
     releaseDate: 2020-11-11
-    extendedSupport: Yes
+    extendedSupport: true
 
 -   releaseCycle: "10"
     lts: 2020-12-24
@@ -81,7 +81,7 @@ releases:
     latest: "10.2.5"
     latestReleaseDate: 2021-04-21
     releaseDate: 2020-06-24
-    extendedSupport: Yes
+    extendedSupport: true
 
 -   releaseCycle: "9"
     lts: 2020-08-06
@@ -90,7 +90,7 @@ releases:
     latest: "9.1.13"
     latestReleaseDate: 2020-12-16
     releaseDate: 2020-02-06
-    extendedSupport: Yes
+    extendedSupport: true
 
 ---
 
